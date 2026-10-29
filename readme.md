@@ -37,83 +37,9 @@
 <small>🧡🧡🧡 HAPPY CODING 🧡🧡🧡</small>
 
 ---
-<div>
-<h2>💖 赞助商（Sponsors）</h2>
-
-<p>感谢我们出色的赞助商对本人开源贡献以及 <strong>30 Days of Challenge</strong> 系列的大力支持！</p>
-
-<h3>当前赞助商</h3>
-<hr />
-<div align="center">
-  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <!-- 深色模式（Dark mode） -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
-      <!-- 浅色模式（Light mode，回退） -->
-      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
-           width="400px"
-           alt="Wispr Flow Logo"
-           title="Wispr Flow" />
-    </picture>
-  </a>
-
-  <h1>
-    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-      用语音编写代码，保持心流（Flow）。
-    </a>
-  </h1>
-
-  <h2>
-    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
-      Flow 专为沉浸于工具中的开发者打造。通过语音提供更多上下文，获得更出色的结果。
-    </a>
-  </h2>
-</div>
-<hr />
-<div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <!-- 深色模式（Dark mode） -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-white.png" />
-      <!-- 浅色模式（Light mode，回退） -->
-      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/petrosky-logo-black.png"
-           width="400px"
-           alt="Petrosky Logo"
-           title="Petrosky" />
-    </picture>
-  </a>
-
-  <h1>
-    <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      为你的整个旅程提供托管服务！
-    </a>
-  </h1>
-
-  <h2>
-    <a href="https://client.petrosky.io/aff.php?aff=402" target="_blank" rel="noopener noreferrer">
-      满足你所有需求的平价 VPS 托管服务
-    </a>
-  </h2>
-</div>
-
----
-
-### 🙌 成为赞助商
-
-你可以通过 **[GitHub Sponsors](https://github.com/sponsors/asabeneh)** 或 [PayPal](https://www.paypal.me/asabeneh) 成为赞助商来支持本项目。
-
-每一笔贡献，无论大小，都意义重大。感谢你的支持！🌟
-
----
 
 <div align="center">
   <h1> 30 Days Of Python：第 1 天 - 简介</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
   <sub>作者（Author）：
   <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
@@ -129,7 +55,6 @@
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
 - [🐍 30 Days Of Python](#-30-days-of-python)
-    - [🙌 成为赞助商](#-成为赞助商)
 - [📘 第 1 天](#-第-1-天)
   - [欢迎（Welcome）](#欢迎welcome)
   - [简介（Introduction）](#简介introduction)
@@ -172,9 +97,7 @@ Python 是一种用于通用编程的高级编程语言。它是一种开源、�
 
 本挑战专为希望学习 Python 编程语言的初学者和专业人士设计。完成该挑战可能需要 30 到 100 天。积极参与 Telegram 群组的人完成挑战的概率很高。
 
-本挑战易于阅读，以对话式的英语撰写，引人入胜、激励人心，同时也非常具有挑战性。你需要投入大量时间来完成这个挑战。如果你是视觉型学习者，可以在 <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw">Washera</a> YouTube 频道观看视频课程。你可以从 [Python for Absolute Beginners video](https://youtu.be/OCCWZheOesI) 开始。订阅该频道，在 YouTube 视频下评论和提问并积极主动，作者最终会注意到你。
-
-作者希望听到你对挑战的看法，请分享你对 30DaysOfPython 挑战的想法。你可以通过此[链接](https://www.asabeneh.com/testimonials)留下你的感言。
+本挑战易于阅读，以对话式的英语撰写，引人入胜、激励人心，同时也非常具有挑战性。你需要投入大量时间来完成这个挑战。
 
 ## 为什么选择 Python？
 
